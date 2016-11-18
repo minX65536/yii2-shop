@@ -1,12 +1,12 @@
 {
-    "name": "minX65536/yii2-shop",
+    "name": "minx65536/yii2-shop",
     "description": "yii2-shop it's a module for site shop backend",
     "keywords": ["yii2", "yii 2", "application", "backend", "crud", "shop", "module", "pistol88"],
-    "homepage": "https://github.com/minX65536/yii2-shop",
+    "homepage": "https://github.com/minx65536/yii2-shop",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/minX65536/yii2-shop"
+        "source": "https://github.com/minx65536/yii2-shop"
     },
     "authors": [
         {
@@ -46,10 +46,10 @@
     },
     "autoload": {
         "psr-4": {
-            "minX65536\\shop\\": ""
+            "minx65536\\shop\\": ""
         }
     },
     "extra": {
-        "bootstrap": "minX65536\\shop\\Bootstrap"
+        "bootstrap": "minx65536\\shop\\Bootstrap"
     }
 }
